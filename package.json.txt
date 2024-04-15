@@ -1,0 +1,12 @@
+{
+  "name": "com.danqa.heatmap",
+  "version": "1.0",
+  "displayName": "Heatmap",
+  "description": "Fork of KDanik heatmap for unity by Danqa",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": Danqa
+    "email": Ldk99@yandex.ru,
+  }
+}
