@@ -5,8 +5,9 @@
   "description": "Fork of KDanik heatmap for unity by Danqa1337",
   "unity": "2019.1",
   "unityRelease": "0b5",
-  "author": {
-    "name": Danqa
-    "email": Ldk99@yandex.ru,
+  "author":
+  {
+    "name": "Danqa",
+    "email": "Ldk99@yandex.ru",
   }
 }
